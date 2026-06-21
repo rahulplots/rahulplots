@@ -5,12 +5,12 @@
 
 # 💫 About Me:
 
-- 0️⃣ **🔭 Current Focus:** Building interactive data dashboards and refining data cleaning workflows using SQL and Python.
-- 1️⃣ **👯 Collaboration:** Open-source Data Science projects, exploratory data analysis (EDA) scripts, and advanced business intelligence dashboards.
-- 2️⃣ **🤝 Goals:** Mastering advanced machine learning algorithms and deep-diving into complex statistical testing models.
-- 3️⃣ **🌱 Academic Journey:** Learning advanced Data Science concepts, building upon my ongoing BCA (Hons.) in Data Science.
-- 4️⃣ **💬 Let's Talk About:** Writing optimized SQL queries (JOINs, Window Functions), designing Power BI and Tableau dashboards, or doing exploratory data analysis using Pandas and NumPy.
-- 5️⃣ **⚡ Fun Fact:** I treat my daily life variables like a clean dataset—constantly tracking and optimizing everything from my coding sprint streaks to my gym routine and high-protein macro targets!
+- 0️⃣ 🔭 Current Focus: Building interactive data dashboards and refining data cleaning workflows using SQL and Python.
+- 1️⃣ 👯 Collaboration: Open-source Data Science projects, exploratory data analysis (EDA) scripts, and advanced business intelligence dashboards.
+- 2️⃣ 🤝 Goals: Mastering advanced machine learning algorithms and deep-diving into complex statistical testing models.
+- 3️⃣ 🌱 Academic Journey: Learning advanced Data Science concepts, building upon my ongoing BCA (Hons.) in Data Science.
+- 4️⃣ 💬 Let's Talk About: Writing optimized SQL queries (JOINs, Window Functions), designing Power BI and Tableau dashboards, or doing exploratory data analysis using Pandas and NumPy.
+- 5️⃣ ⚡ Fun Fact: I treat my daily life variables like a clean dataset—constantly tracking and optimizing everything from my coding sprint streaks to my gym routine and high-protein macro targets!
 
 ---
 
