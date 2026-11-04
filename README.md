@@ -20,6 +20,12 @@
   <a href="https://linkedin.com/in/rahul-kumar-7b57263b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.kaggle.com/ninjaneo" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://rahulplots.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
   <a href="mailto:rahul926320@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
